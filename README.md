@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## Screenshot
 
-<img width="1440" alt="noLimit-test-Screenshot" src="/Users/mfajarirfan/Projects/noLimit-test/src/assets/noLimit-test-Screenshot.png">
+<img width="1440" alt="noLimit-test-Screenshot" src="./src/assets/noLimit-test-Screenshot.png">
 
 ### Description:
 
